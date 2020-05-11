@@ -1,0 +1,18 @@
+.addTodoContainer {
+    background: #FFF; 
+    font-size: 20px;
+    max-width: 15em;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 0.5em 1em;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
+  }
+
+.addTodoInput {
+  width: 200px;
+}
+
+.submitButton {
+  margin-left: 20px;
+}

@@ -1,3 +1,20 @@
+## Todo App - React
+
+This is another project in my weekend coding projects series. I started out wanting to create a much more complex app, but I decided to scale back and practice playing with React. I created a basic todo app that accomplishes the following:
+* Add todo item
+* Cross out items at they are completed
+* Remove item from list whether it is completed or not
+* Persistence of data
+
+![](react_todo_demo.gif)
+
+Technologies:
+- Javascript language
+- JSX
+- CSS
+- Custom CSS Animations
+- React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
